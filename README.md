@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Casiinovaa
 - 👀 I’m new to comp sci and I'm just chillin..
 - 🌱 I’m currently learning python coz I'm new(b) 
-- 💞️ I’m looking to collaborate on my life, I literally have none.
 - 📫 IDK man, reach me out on here or on my insta @mina_ramandious
 
 <!---
