@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Casiinovaa
-- 👀 I’m new to comp sci and I'm just chillin..
-- 🌱 I’m currently learning python coz I'm new(b) 
-- 📫 IDK man, reach me out on here or on my insta @mina_ramandious
+- 🧮 Math & Economics Double @ Bowdoin
+- 🎲 Researching applied quantitative and economics
+- 📫 Reach me out on here or on Instagram @mina_ramandious
 
 <!---
 Casiinovaa/Casiinovaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
